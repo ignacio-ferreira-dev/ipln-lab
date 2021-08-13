@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+EMBEDDING_VECTOR_SIZE = 300
+EMBEDDINGS_NUM_WORDS = 35569
